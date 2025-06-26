@@ -32,3 +32,14 @@ The following features were used for prediction:
 - The R² score on training set: `0.933`
 - The R² score on test set: `0.805`
 - The actual vs predicted price plot shows the model generalizes well but may slightly underfit at higher price ranges.
+
+
+
+## To use the webUI- 
+
+#### Installing files
+git clone https://github.com/Keshav99x/Predicting-Car-Prices-using-Python.git
+
+
+#### Running the WebUI-
+Run The webUI python file 
