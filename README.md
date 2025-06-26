@@ -40,6 +40,9 @@ The following features were used for prediction:
 #### Installing files
 git clone https://github.com/Keshav99x/Predicting-Car-Prices-using-Python.git
 
+#### Installing Dependencies:
+pip install -r requirements.txt
+
 
 #### Running the WebUI-
 Run The webUI python file 
